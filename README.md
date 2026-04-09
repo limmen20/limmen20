@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=limmen20&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limmen20&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=limmen20&theme=dark)
 <!--
 **limmen20/limmen20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
