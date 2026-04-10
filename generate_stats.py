@@ -23,7 +23,7 @@ query($username: String!, $from: DateTime!, $to: DateTime!) {
         }
       }
     }
-    repositories(first: 100, ownerAffiliations: OWNER, privacy: BOTH) {
+    repositories(first: 100, ownerAffiliations: OWNER) {
       nodes {
         languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
           edges {
