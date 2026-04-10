@@ -51,7 +51,13 @@ def fetch():
         headers=HEADERS,
     )
     r.raise_for_status()
-    return r.json()["data"]["user"]
+    response = r.json()
+    if "errors" in response:
+        print("GitHub API errors:", response["errors"])
+    if "data" not in response:
+        print("Full response:", response)
+        raise Exception("No data in response")
+    return response["data"]["user"]
 
 def process(data):
     cc = data["contributionsCollection"]
