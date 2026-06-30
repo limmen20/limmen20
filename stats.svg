@@ -39,7 +39,6 @@
 <rect x="24" y="241" width="7" height="7" fill="#161b22" rx="2"/>
 <rect x="24" y="250" width="7" height="7" fill="#161b22" rx="2"/>
 <rect x="24" y="259" width="7" height="7" fill="#161b22" rx="2"/>
-<rect x="24" y="268" width="7" height="7" fill="#161b22" rx="2"/>
 <rect x="33" y="214" width="7" height="7" fill="#161b22" rx="2"/>
 <rect x="33" y="223" width="7" height="7" fill="#161b22" rx="2"/>
 <rect x="33" y="232" width="7" height="7" fill="#161b22" rx="2"/>
@@ -399,6 +398,7 @@
 <rect x="483" y="268" width="7" height="7" fill="#161b22" rx="2"/>
 <rect x="492" y="214" width="7" height="7" fill="#161b22" rx="2"/>
 <rect x="492" y="223" width="7" height="7" fill="#161b22" rx="2"/>
+<rect x="492" y="232" width="7" height="7" fill="#161b22" rx="2"/>
 <text x="383" y="298" font-family="monospace" font-size="9" fill="#8b949e">less</text>
 <rect x="411" y="292" width="7" height="7" fill="#161b22" rx="2"/>
 <rect x="420" y="292" width="7" height="7" fill="#0e4429" rx="2"/>
